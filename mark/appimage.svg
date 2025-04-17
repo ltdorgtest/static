@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="40"
-   height="40"
+   width="53.616001"
+   height="50"
    id="svg3832"
    version="1.1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
@@ -218,9 +218,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14"
-     inkscape:cx="27.535714"
-     inkscape:cy="24.75"
+     inkscape:zoom="7"
+     inkscape:cx="23.928571"
+     inkscape:cy="24.071429"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -250,7 +250,39 @@
      inkscape:groupmode="layer">
     <g
        id="g1"
-       transform="translate(-4,-4.9674392)">
+       transform="matrix(1.2185454,0,0,1.2185454,-2.4370909,-6.1389994)">
+      <g
+         style="display:inline"
+         id="g2036"
+         transform="matrix(1.1,0,0,0.4444449,-2.4000022,25.11107)">
+        <g
+           style="opacity:0.4"
+           id="g3712"
+           transform="matrix(1.052632,0,0,1.285713,-1.263158,-13.42854)">
+          <rect
+             style="fill:url(#radialGradient2873-966-168);fill-opacity:1;stroke:none"
+             id="rect2801"
+             y="40"
+             x="38"
+             height="7"
+             width="5" />
+          <rect
+             style="fill:url(#radialGradient2875-742-326);fill-opacity:1;stroke:none"
+             id="rect3696"
+             transform="scale(-1)"
+             y="-47"
+             x="-10"
+             height="7"
+             width="5" />
+          <rect
+             style="fill:url(#linearGradient2877-634-617);fill-opacity:1;stroke:none"
+             id="rect3700"
+             y="40"
+             x="10"
+             height="7.0000005"
+             width="28" />
+        </g>
+      </g>
       <rect
          style="fill:url(#radialGradient2990);fill-opacity:1;stroke:url(#linearGradient2992);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5505"
