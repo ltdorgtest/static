@@ -90,5 +90,23 @@
       <td><a href="https://en.m.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg">Link</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td>sphinx-dark.svg</td>
+      <td><img src="mark/sphinx-dark.svg" alt="sphinx-dark" width="100"/></td>
+      <td><a href="https://github.com/sphinx-doc/sphinx/blob/master/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>sphinx-white.svg</td>
+      <td><img src="mark/sphinx-white.svg" alt="sphinx-white" width="100"/></td>
+      <td><a href="https://github.com/sphinx-doc/sphinx/blob/master/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>sphinx.svg</td>
+      <td><img src="mark/sphinx.svg" alt="sphinx" width="100"/></td>
+      <td><a href="https://github.com/sphinx-doc/sphinx/blob/master/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
