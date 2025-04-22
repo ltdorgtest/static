@@ -55,6 +55,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>mdbook.svg</td>
+      <td><img src="mark/mdbook.svg" alt="mdbook" width="100"/></td>
+      <td><a href="https://icon-icons.com/icon/mdbook-logo/247757">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>numpy.svg</td>
       <td><img src="mark/numpy.svg" alt="numpy" width="100"/></td>
       <td><a href="https://seeklogo.com/vector-logo/398690/numpy">Link</a></td>
