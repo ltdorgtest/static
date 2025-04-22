@@ -55,8 +55,14 @@
       <td></td>
     </tr>
     <tr>
-      <td>mdbook.svg</td>
-      <td><img src="mark/mdbook.svg" alt="mdbook" width="100"/></td>
+      <td>mdbook-black.svg</td>
+      <td><img src="mark/mdbook-black.svg" alt="mdbook-black" width="100"/></td>
+      <td><a href="https://icon-icons.com/icon/mdbook-logo/247757">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>mdbook-white.svg</td>
+      <td><img src="mark/mdbook-white.svg" alt="mdbook-white" width="100"/></td>
       <td><a href="https://icon-icons.com/icon/mdbook-logo/247757">Link</a></td>
       <td></td>
     </tr>
