@@ -55,6 +55,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>llvm.svg</td>
+      <td><img src="mark/llvm.svg" alt="llvm" width="100"/></td>
+      <td><a href="https://techicons.dev/icons/llvm">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>mdbook-black.svg</td>
       <td><img src="mark/mdbook-black.svg" alt="mdbook-black" width="100"/></td>
       <td><a href="https://icon-icons.com/icon/mdbook-logo/247757">Link</a></td>
