@@ -17,6 +17,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>breathe.svg</td>
+      <td><img src="mark/breathe.svg" alt="breathe" width="100"/></td>
+      <td><a href="https://github.com/breathe-doc/breathe/blob/main/documentation/source/_static/logo.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>cmake.svg</td>
       <td><img src="mark/cmake.svg" alt="cmake" width="100"/></td>
       <td><a href="https://commons.wikimedia.org/wiki/File:Cmake.svg">Link</a></td>
