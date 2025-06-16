@@ -121,6 +121,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>setuptools.svg</td>
+      <td><img src="mark/setuptools.svg" alt="setuptools" width="100"/></td>
+      <td><a href="https://github.com/pypa/setuptools/blob/main/docs/images/logo-symbol-only.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>sphinx-white.svg</td>
       <td><img src="mark/sphinx-white.svg" alt="sphinx-white" width="100"/></td>
       <td><a href="https://github.com/sphinx-doc/sphinx/blob/master/doc/_themes/sphinx13/static/sphinx-logo.svg">Link</a></td>
