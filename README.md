@@ -111,7 +111,7 @@
     <tr>
       <td>rust.svg</td>
       <td><img src="mark/rust.svg" alt="rust" width="100"/></td>
-      <td><a href="https://en.m.wikipedia.org/wiki/File:Rust_programming_language_black_logo.svg">Link</a></td>
+      <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
       <td></td>
     </tr>
     <tr>
