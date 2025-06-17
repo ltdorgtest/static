@@ -31,6 +31,18 @@
       </td>
     </tr>
     <tr>
+      <td>colcon-blue.svg</td>
+      <td><img src="mark/colcon-blue.svg" alt="colcon-blue" width="100"/></td>
+      <td><a href="https://github.com/colcon/colcon.readthedocs.org/blob/main/_static/colcon.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>colcon-white.svg</td>
+      <td><img src="mark/colcon-white.svg" alt="colcon-white" width="100"/></td>
+      <td><a href="https://github.com/colcon/colcon.readthedocs.org/blob/main/_static/colcon.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>conan.svg</td>
       <td><img src="mark/conan.svg" alt="conan" width="100"/></td>
       <td><a href="https://www.svgrepo.com/svg/353596/conan-io/">Link</a></td>
