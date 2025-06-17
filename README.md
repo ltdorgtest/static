@@ -115,8 +115,14 @@
       <td></td>
     </tr>
     <tr>
-      <td>ros.svg</td>
-      <td><img src="mark/ros.svg" alt="ros" width="100"/></td>
+      <td>ros-dark.svg</td>
+      <td><img src="mark/ros-dark.svg" alt="ros-dark" width="100"/></td>
+      <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ros-white.svg</td>
+      <td><img src="mark/ros-white.svg" alt="ros-white" width="100"/></td>
       <td><a href="https://github.com/ros-infrastructure/artwork/blob/master/orgunits/ros.svg">Link</a></td>
       <td></td>
     </tr>
