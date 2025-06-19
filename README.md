@@ -139,6 +139,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>sphinx-design.svg</td>
+      <td><img src="mark/sphinx-design.svg" alt="sphinx-design" width="100"/></td>
+      <td><a href="https://github.com/executablebooks/sphinx-design/blob/main/docs/_static/logo_square.svg">Link</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>setuptools.svg</td>
       <td><img src="mark/setuptools.svg" alt="setuptools" width="100"/></td>
       <td><a href="https://github.com/pypa/setuptools/blob/main/docs/images/logo-symbol-only.svg">Link</a></td>
