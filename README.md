@@ -103,14 +103,14 @@
       <td></td>
     </tr>
     <tr>
-      <td><code>mark/readthedocs-dark.svg</code></td>
-      <td><img src="mark/readthedocs-dark.svg" alt="readthedocs-dark" width="100"/></td>
+      <td><code>mark/rtd-dark.svg</code></td>
+      <td><img src="mark/rtd-dark.svg" alt="rtd-dark" width="100"/></td>
       <td><a href="https://brand-guidelines.readthedocs.org/branding.html">Link</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><code>mark/readthedocs-light.svg</code></td>
-      <td><img src="mark/readthedocs-light.svg" alt="readthedocs-light" width="100"/></td>
+      <td><code>mark/rtd-light.svg</code></td>
+      <td><img src="mark/rtd-light.svg" alt="rtd-light" width="100"/></td>
       <td><a href="https://brand-guidelines.readthedocs.org/branding.html">Link</a></td>
       <td></td>
     </tr>
@@ -127,7 +127,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><code>mark/mark/rust.svg</code></td>
+      <td><code>mark/rust.svg</code></td>
       <td><img src="mark/rust.svg" alt="rust" width="100"/></td>
       <td><a href="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-blk.svg">Link</a></td>
       <td></td>
